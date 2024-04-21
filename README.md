@@ -1,4 +1,4 @@
-Title: Business Insights 360 Dashboard for Finance, Sales, Marketing and Supply Chain
+#Title: Business Insights 360 Dashboard for finance, sales, marketing, supply chain, executive, and products view
 
 **************************
 Project Short Info: 

@@ -1,4 +1,3 @@
-# Business_Insights_360
 Title: Business Insights 360 Dashboard for Finance, Sales, Marketing and Supply Chain
 
 **************************
@@ -16,7 +15,7 @@ In this project, the goal is to be one report which could be used by stakeholder
 2. User-empathetic Report design
 3. Drillable Insights
 
-I learned the following things in this project
+I learned the following things in this project:
 
 1. Power Query (Basic and Advanced Operations) 
 2. Basic and complex DAX formulas
